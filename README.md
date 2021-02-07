@@ -14,3 +14,10 @@ Changes I made to the document:
     a. For example, the three mini containers in the sidebar and the three main containers of information on the HORISEON page all had 
     their own respective classes while they were all doing the same thing. I kept only one of the classes, and deleted the rest to make
     the code more efficient. 
+
+Screenshots:
+
+![alt text](assets/images/screenshot1.jpg)
+![alt text](assets/images/screenshot2.jpg)
+![alt text](assets/images/screenshot3.jpg)
+![alt text](assets/images/screenshot4.jpg)
