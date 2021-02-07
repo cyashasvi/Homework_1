@@ -17,7 +17,7 @@ Changes I made to the document:
 
 Screenshots:
 
-![alt text](assets/images/screenshot1.jpg)
-![alt text](assets/images/screenshot2.jpg)
-![alt text](assets/images/screenshot3.jpg)
-![alt text](assets/images/screenshot4.jpg)
+![HTML](assets/images/screenshot1.jpg)
+![HTML](assets/images/screenshot2.jpg)
+![CSS](assets/images/screenshot3.jpg)
+![CSS](assets/images/screenshot4.jpg)
